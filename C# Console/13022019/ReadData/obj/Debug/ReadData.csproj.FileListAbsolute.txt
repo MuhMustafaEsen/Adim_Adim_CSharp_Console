@@ -1,0 +1,6 @@
+M:\GitHubGonderilenler\13022019\ReadData\bin\Debug\ReadData.exe.config
+M:\GitHubGonderilenler\13022019\ReadData\bin\Debug\ReadData.exe
+M:\GitHubGonderilenler\13022019\ReadData\bin\Debug\ReadData.pdb
+M:\GitHubGonderilenler\13022019\ReadData\obj\Debug\ReadData.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\13022019\ReadData\obj\Debug\ReadData.exe
+M:\GitHubGonderilenler\13022019\ReadData\obj\Debug\ReadData.pdb

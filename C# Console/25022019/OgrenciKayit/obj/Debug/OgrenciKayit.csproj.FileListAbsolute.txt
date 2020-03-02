@@ -1,0 +1,7 @@
+M:\GitHubGonderilenler\C# Console\25022019\25022019\OgrenciKayit\bin\Debug\OgrenciKayit.exe.config
+M:\GitHubGonderilenler\C# Console\25022019\25022019\OgrenciKayit\bin\Debug\OgrenciKayit.exe
+M:\GitHubGonderilenler\C# Console\25022019\25022019\OgrenciKayit\bin\Debug\OgrenciKayit.pdb
+M:\GitHubGonderilenler\C# Console\25022019\25022019\OgrenciKayit\obj\Debug\OgrenciKayit.csprojAssemblyReference.cache
+M:\GitHubGonderilenler\C# Console\25022019\25022019\OgrenciKayit\obj\Debug\OgrenciKayit.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\C# Console\25022019\25022019\OgrenciKayit\obj\Debug\OgrenciKayit.exe
+M:\GitHubGonderilenler\C# Console\25022019\25022019\OgrenciKayit\obj\Debug\OgrenciKayit.pdb

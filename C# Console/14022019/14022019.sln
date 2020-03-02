@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AritmetikselIslemler", "AritmetikselIslemler\AritmetikselIslemler.csproj", "{ED578BD7-1719-423B-8A0E-158CA56B6E90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MantiksalIslemler", "MantiksalIslemler\MantiksalIslemler.csproj", "{BA014157-BB49-4AC3-8F73-E9D89F48476C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED578BD7-1719-423B-8A0E-158CA56B6E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED578BD7-1719-423B-8A0E-158CA56B6E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED578BD7-1719-423B-8A0E-158CA56B6E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED578BD7-1719-423B-8A0E-158CA56B6E90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA014157-BB49-4AC3-8F73-E9D89F48476C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA014157-BB49-4AC3-8F73-E9D89F48476C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA014157-BB49-4AC3-8F73-E9D89F48476C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA014157-BB49-4AC3-8F73-E9D89F48476C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26B6FC07-2342-4975-989E-F599687E8C17}
+	EndGlobalSection
+EndGlobal

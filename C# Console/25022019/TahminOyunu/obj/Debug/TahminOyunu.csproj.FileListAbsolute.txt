@@ -1,0 +1,7 @@
+M:\GitHubGonderilenler\C# Console\25022019\25022019\TahminOyunu\bin\Debug\TahminOyunu.exe.config
+M:\GitHubGonderilenler\C# Console\25022019\25022019\TahminOyunu\bin\Debug\TahminOyunu.exe
+M:\GitHubGonderilenler\C# Console\25022019\25022019\TahminOyunu\bin\Debug\TahminOyunu.pdb
+M:\GitHubGonderilenler\C# Console\25022019\25022019\TahminOyunu\obj\Debug\TahminOyunu.csprojAssemblyReference.cache
+M:\GitHubGonderilenler\C# Console\25022019\25022019\TahminOyunu\obj\Debug\TahminOyunu.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\C# Console\25022019\25022019\TahminOyunu\obj\Debug\TahminOyunu.exe
+M:\GitHubGonderilenler\C# Console\25022019\25022019\TahminOyunu\obj\Debug\TahminOyunu.pdb

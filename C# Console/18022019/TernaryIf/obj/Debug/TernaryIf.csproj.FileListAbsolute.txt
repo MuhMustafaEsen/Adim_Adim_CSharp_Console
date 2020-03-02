@@ -1,0 +1,6 @@
+M:\GitHubGonderilenler\C# Console\18022019\18022019\TernaryIf\obj\Debug\TernaryIf.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\C# Console\18022019\18022019\TernaryIf\bin\Debug\TernaryIf.exe.config
+M:\GitHubGonderilenler\C# Console\18022019\18022019\TernaryIf\bin\Debug\TernaryIf.exe
+M:\GitHubGonderilenler\C# Console\18022019\18022019\TernaryIf\bin\Debug\TernaryIf.pdb
+M:\GitHubGonderilenler\C# Console\18022019\18022019\TernaryIf\obj\Debug\TernaryIf.exe
+M:\GitHubGonderilenler\C# Console\18022019\18022019\TernaryIf\obj\Debug\TernaryIf.pdb

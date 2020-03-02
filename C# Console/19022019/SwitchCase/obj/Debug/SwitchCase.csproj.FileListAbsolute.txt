@@ -1,0 +1,7 @@
+M:\GitHubGonderilenler\C# Console\19022019\19022019\SwitchCase\bin\Debug\SwitchCase.exe.config
+M:\GitHubGonderilenler\C# Console\19022019\19022019\SwitchCase\bin\Debug\SwitchCase.exe
+M:\GitHubGonderilenler\C# Console\19022019\19022019\SwitchCase\bin\Debug\SwitchCase.pdb
+M:\GitHubGonderilenler\C# Console\19022019\19022019\SwitchCase\obj\Debug\SwitchCase.csprojAssemblyReference.cache
+M:\GitHubGonderilenler\C# Console\19022019\19022019\SwitchCase\obj\Debug\SwitchCase.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\C# Console\19022019\19022019\SwitchCase\obj\Debug\SwitchCase.exe
+M:\GitHubGonderilenler\C# Console\19022019\19022019\SwitchCase\obj\Debug\SwitchCase.pdb

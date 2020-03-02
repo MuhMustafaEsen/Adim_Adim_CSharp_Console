@@ -1,0 +1,6 @@
+M:\GitHubGonderilenler\13022019\Operatorler\bin\Debug\Operatorler.exe.config
+M:\GitHubGonderilenler\13022019\Operatorler\bin\Debug\Operatorler.exe
+M:\GitHubGonderilenler\13022019\Operatorler\bin\Debug\Operatorler.pdb
+M:\GitHubGonderilenler\13022019\Operatorler\obj\Debug\Operatorler.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\13022019\Operatorler\obj\Debug\Operatorler.exe
+M:\GitHubGonderilenler\13022019\Operatorler\obj\Debug\Operatorler.pdb

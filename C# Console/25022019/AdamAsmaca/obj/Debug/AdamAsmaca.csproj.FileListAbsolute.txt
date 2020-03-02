@@ -1,0 +1,7 @@
+M:\GitHubGonderilenler\C# Console\25022019\25022019\AdamAsmaca\bin\Debug\AdamAsmaca.exe.config
+M:\GitHubGonderilenler\C# Console\25022019\25022019\AdamAsmaca\bin\Debug\AdamAsmaca.exe
+M:\GitHubGonderilenler\C# Console\25022019\25022019\AdamAsmaca\bin\Debug\AdamAsmaca.pdb
+M:\GitHubGonderilenler\C# Console\25022019\25022019\AdamAsmaca\obj\Debug\AdamAsmaca.csprojAssemblyReference.cache
+M:\GitHubGonderilenler\C# Console\25022019\25022019\AdamAsmaca\obj\Debug\AdamAsmaca.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\C# Console\25022019\25022019\AdamAsmaca\obj\Debug\AdamAsmaca.exe
+M:\GitHubGonderilenler\C# Console\25022019\25022019\AdamAsmaca\obj\Debug\AdamAsmaca.pdb

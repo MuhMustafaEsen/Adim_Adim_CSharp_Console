@@ -1,0 +1,7 @@
+M:\GitHubGonderilenler\C# Console\23022019\23022019\Diziler\bin\Debug\Diziler.exe.config
+M:\GitHubGonderilenler\C# Console\23022019\23022019\Diziler\bin\Debug\Diziler.exe
+M:\GitHubGonderilenler\C# Console\23022019\23022019\Diziler\bin\Debug\Diziler.pdb
+M:\GitHubGonderilenler\C# Console\23022019\23022019\Diziler\obj\Debug\Diziler.csprojAssemblyReference.cache
+M:\GitHubGonderilenler\C# Console\23022019\23022019\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\C# Console\23022019\23022019\Diziler\obj\Debug\Diziler.exe
+M:\GitHubGonderilenler\C# Console\23022019\23022019\Diziler\obj\Debug\Diziler.pdb

@@ -1,0 +1,6 @@
+M:\GitHubGonderilenler\C# Console\28022019\28022019\2_Params\bin\Debug\2_Params.exe.config
+M:\GitHubGonderilenler\C# Console\28022019\28022019\2_Params\bin\Debug\2_Params.exe
+M:\GitHubGonderilenler\C# Console\28022019\28022019\2_Params\bin\Debug\2_Params.pdb
+M:\GitHubGonderilenler\C# Console\28022019\28022019\2_Params\obj\Debug\2_Params.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\C# Console\28022019\28022019\2_Params\obj\Debug\2_Params.exe
+M:\GitHubGonderilenler\C# Console\28022019\28022019\2_Params\obj\Debug\2_Params.pdb

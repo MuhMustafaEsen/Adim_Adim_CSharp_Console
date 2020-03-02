@@ -1,0 +1,6 @@
+M:\GitHubGonderilenler\C# Console\28022019\28022019\DateTimeMethods\bin\Debug\DateTimeMethods.exe.config
+M:\GitHubGonderilenler\C# Console\28022019\28022019\DateTimeMethods\bin\Debug\DateTimeMethods.exe
+M:\GitHubGonderilenler\C# Console\28022019\28022019\DateTimeMethods\bin\Debug\DateTimeMethods.pdb
+M:\GitHubGonderilenler\C# Console\28022019\28022019\DateTimeMethods\obj\Debug\DateTimeMethods.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\C# Console\28022019\28022019\DateTimeMethods\obj\Debug\DateTimeMethods.exe
+M:\GitHubGonderilenler\C# Console\28022019\28022019\DateTimeMethods\obj\Debug\DateTimeMethods.pdb

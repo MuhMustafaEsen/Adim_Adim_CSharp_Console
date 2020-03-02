@@ -1,0 +1,6 @@
+M:\GitHubGonderilenler\C# Console\23022019\23022019\DiziMethodlari\bin\Debug\DiziMethodlari.exe.config
+M:\GitHubGonderilenler\C# Console\23022019\23022019\DiziMethodlari\bin\Debug\DiziMethodlari.exe
+M:\GitHubGonderilenler\C# Console\23022019\23022019\DiziMethodlari\bin\Debug\DiziMethodlari.pdb
+M:\GitHubGonderilenler\C# Console\23022019\23022019\DiziMethodlari\obj\Debug\DiziMethodlari.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\C# Console\23022019\23022019\DiziMethodlari\obj\Debug\DiziMethodlari.exe
+M:\GitHubGonderilenler\C# Console\23022019\23022019\DiziMethodlari\obj\Debug\DiziMethodlari.pdb

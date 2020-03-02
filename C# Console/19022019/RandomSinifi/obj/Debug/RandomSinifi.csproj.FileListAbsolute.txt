@@ -1,0 +1,6 @@
+M:\GitHubGonderilenler\C# Console\19022019\19022019\RandomSinifi\bin\Debug\RandomSinifi.exe.config
+M:\GitHubGonderilenler\C# Console\19022019\19022019\RandomSinifi\bin\Debug\RandomSinifi.exe
+M:\GitHubGonderilenler\C# Console\19022019\19022019\RandomSinifi\bin\Debug\RandomSinifi.pdb
+M:\GitHubGonderilenler\C# Console\19022019\19022019\RandomSinifi\obj\Debug\RandomSinifi.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\C# Console\19022019\19022019\RandomSinifi\obj\Debug\RandomSinifi.exe
+M:\GitHubGonderilenler\C# Console\19022019\19022019\RandomSinifi\obj\Debug\RandomSinifi.pdb

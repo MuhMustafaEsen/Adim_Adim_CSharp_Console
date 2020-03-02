@@ -1,0 +1,7 @@
+M:\GitHubGonderilenler\C# Console\27022019\27022019\Methodlar\obj\Debug\Methodlar.csprojAssemblyReference.cache
+M:\GitHubGonderilenler\C# Console\27022019\27022019\Methodlar\obj\Debug\Methodlar.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\C# Console\27022019\27022019\Methodlar\bin\Debug\Methodlar.exe.config
+M:\GitHubGonderilenler\C# Console\27022019\27022019\Methodlar\bin\Debug\Methodlar.exe
+M:\GitHubGonderilenler\C# Console\27022019\27022019\Methodlar\bin\Debug\Methodlar.pdb
+M:\GitHubGonderilenler\C# Console\27022019\27022019\Methodlar\obj\Debug\Methodlar.exe
+M:\GitHubGonderilenler\C# Console\27022019\27022019\Methodlar\obj\Debug\Methodlar.pdb

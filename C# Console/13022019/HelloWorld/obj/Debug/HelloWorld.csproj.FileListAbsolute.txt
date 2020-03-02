@@ -1,0 +1,14 @@
+M:\GitHubGonderilenler\13022019\HelloWorld\bin\Debug\HelloWorld.exe.config
+M:\GitHubGonderilenler\13022019\HelloWorld\bin\Debug\HelloWorld.exe
+M:\GitHubGonderilenler\13022019\HelloWorld\bin\Debug\HelloWorld.pdb
+M:\GitHubGonderilenler\13022019\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+M:\GitHubGonderilenler\13022019\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\13022019\HelloWorld\obj\Debug\HelloWorld.exe
+M:\GitHubGonderilenler\13022019\HelloWorld\obj\Debug\HelloWorld.pdb
+M:\GitHubGonderilenler\13022019\13022019\HelloWorld\bin\Debug\HelloWorld.exe.config
+M:\GitHubGonderilenler\13022019\13022019\HelloWorld\bin\Debug\HelloWorld.exe
+M:\GitHubGonderilenler\13022019\13022019\HelloWorld\bin\Debug\HelloWorld.pdb
+M:\GitHubGonderilenler\13022019\13022019\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+M:\GitHubGonderilenler\13022019\13022019\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\13022019\13022019\HelloWorld\obj\Debug\HelloWorld.exe
+M:\GitHubGonderilenler\13022019\13022019\HelloWorld\obj\Debug\HelloWorld.pdb

@@ -1,0 +1,7 @@
+M:\GitHubGonderilenler\C# Console\28022019\28022019\StringMethods\bin\Debug\StringMethods.exe.config
+M:\GitHubGonderilenler\C# Console\28022019\28022019\StringMethods\bin\Debug\StringMethods.exe
+M:\GitHubGonderilenler\C# Console\28022019\28022019\StringMethods\bin\Debug\StringMethods.pdb
+M:\GitHubGonderilenler\C# Console\28022019\28022019\StringMethods\obj\Debug\StringMethods.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\C# Console\28022019\28022019\StringMethods\obj\Debug\StringMethods.exe
+M:\GitHubGonderilenler\C# Console\28022019\28022019\StringMethods\obj\Debug\StringMethods.pdb
+M:\GitHubGonderilenler\C# Console\28022019\28022019\StringMethods\obj\Debug\StringMethods.csprojAssemblyReference.cache

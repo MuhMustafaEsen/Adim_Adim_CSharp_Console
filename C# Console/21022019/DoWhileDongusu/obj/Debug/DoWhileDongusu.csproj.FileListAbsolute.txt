@@ -1,0 +1,6 @@
+M:\GitHubGonderilenler\C# Console\21022019\21022019\DoWhileDongusu\bin\Debug\DoWhileDongusu.exe.config
+M:\GitHubGonderilenler\C# Console\21022019\21022019\DoWhileDongusu\bin\Debug\DoWhileDongusu.exe
+M:\GitHubGonderilenler\C# Console\21022019\21022019\DoWhileDongusu\bin\Debug\DoWhileDongusu.pdb
+M:\GitHubGonderilenler\C# Console\21022019\21022019\DoWhileDongusu\obj\Debug\DoWhileDongusu.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\C# Console\21022019\21022019\DoWhileDongusu\obj\Debug\DoWhileDongusu.exe
+M:\GitHubGonderilenler\C# Console\21022019\21022019\DoWhileDongusu\obj\Debug\DoWhileDongusu.pdb

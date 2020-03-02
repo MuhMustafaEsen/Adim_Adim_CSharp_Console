@@ -1,0 +1,6 @@
+M:\GitHubGonderilenler\13022019\Ornek\bin\Debug\Ornek.exe.config
+M:\GitHubGonderilenler\13022019\Ornek\bin\Debug\Ornek.exe
+M:\GitHubGonderilenler\13022019\Ornek\bin\Debug\Ornek.pdb
+M:\GitHubGonderilenler\13022019\Ornek\obj\Debug\Ornek1.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\13022019\Ornek\obj\Debug\Ornek.exe
+M:\GitHubGonderilenler\13022019\Ornek\obj\Debug\Ornek.pdb

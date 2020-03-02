@@ -1,0 +1,6 @@
+M:\GitHubGonderilenler\C# Console\27022019\27022019\ParametresizGeriDonusluMethod_03\bin\Debug\ParametresizGeriDonusluMethod_03.exe.config
+M:\GitHubGonderilenler\C# Console\27022019\27022019\ParametresizGeriDonusluMethod_03\bin\Debug\ParametresizGeriDonusluMethod_03.exe
+M:\GitHubGonderilenler\C# Console\27022019\27022019\ParametresizGeriDonusluMethod_03\bin\Debug\ParametresizGeriDonusluMethod_03.pdb
+M:\GitHubGonderilenler\C# Console\27022019\27022019\ParametresizGeriDonusluMethod_03\obj\Debug\ParametresizGeriDonusluMethod_03.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\C# Console\27022019\27022019\ParametresizGeriDonusluMethod_03\obj\Debug\ParametresizGeriDonusluMethod_03.exe
+M:\GitHubGonderilenler\C# Console\27022019\27022019\ParametresizGeriDonusluMethod_03\obj\Debug\ParametresizGeriDonusluMethod_03.pdb

@@ -1,0 +1,6 @@
+M:\GitHubGonderilenler\C# Console\25022019\25022019\Loto\bin\Debug\Loto.exe.config
+M:\GitHubGonderilenler\C# Console\25022019\25022019\Loto\bin\Debug\Loto.exe
+M:\GitHubGonderilenler\C# Console\25022019\25022019\Loto\bin\Debug\Loto.pdb
+M:\GitHubGonderilenler\C# Console\25022019\25022019\Loto\obj\Debug\Loto.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\C# Console\25022019\25022019\Loto\obj\Debug\Loto.exe
+M:\GitHubGonderilenler\C# Console\25022019\25022019\Loto\obj\Debug\Loto.pdb

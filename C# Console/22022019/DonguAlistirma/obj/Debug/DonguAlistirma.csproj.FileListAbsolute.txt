@@ -1,0 +1,7 @@
+M:\GitHubGonderilenler\C# Console\22022019\22022019\DonguAlistirma\bin\Debug\DonguAlistirma.exe.config
+M:\GitHubGonderilenler\C# Console\22022019\22022019\DonguAlistirma\bin\Debug\DonguAlistirma.exe
+M:\GitHubGonderilenler\C# Console\22022019\22022019\DonguAlistirma\bin\Debug\DonguAlistirma.pdb
+M:\GitHubGonderilenler\C# Console\22022019\22022019\DonguAlistirma\obj\Debug\DonguAlistirma.csprojAssemblyReference.cache
+M:\GitHubGonderilenler\C# Console\22022019\22022019\DonguAlistirma\obj\Debug\DonguAlistirma.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\C# Console\22022019\22022019\DonguAlistirma\obj\Debug\DonguAlistirma.exe
+M:\GitHubGonderilenler\C# Console\22022019\22022019\DonguAlistirma\obj\Debug\DonguAlistirma.pdb

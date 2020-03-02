@@ -1,0 +1,7 @@
+M:\GitHubGonderilenler\13022019\Donusumler\obj\Debug\Donusumler.csprojAssemblyReference.cache
+M:\GitHubGonderilenler\13022019\Donusumler\obj\Debug\Donusumler.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\13022019\Donusumler\bin\Debug\Donusumler.exe.config
+M:\GitHubGonderilenler\13022019\Donusumler\bin\Debug\Donusumler.exe
+M:\GitHubGonderilenler\13022019\Donusumler\bin\Debug\Donusumler.pdb
+M:\GitHubGonderilenler\13022019\Donusumler\obj\Debug\Donusumler.exe
+M:\GitHubGonderilenler\13022019\Donusumler\obj\Debug\Donusumler.pdb

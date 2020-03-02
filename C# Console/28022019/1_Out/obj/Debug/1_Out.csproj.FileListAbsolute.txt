@@ -1,0 +1,7 @@
+M:\GitHubGonderilenler\C# Console\28022019\28022019\1_Out\bin\Debug\1_Out.exe.config
+M:\GitHubGonderilenler\C# Console\28022019\28022019\1_Out\bin\Debug\1_Out.exe
+M:\GitHubGonderilenler\C# Console\28022019\28022019\1_Out\bin\Debug\1_Out.pdb
+M:\GitHubGonderilenler\C# Console\28022019\28022019\1_Out\obj\Debug\1_Out.csprojAssemblyReference.cache
+M:\GitHubGonderilenler\C# Console\28022019\28022019\1_Out\obj\Debug\1_Out.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\C# Console\28022019\28022019\1_Out\obj\Debug\1_Out.exe
+M:\GitHubGonderilenler\C# Console\28022019\28022019\1_Out\obj\Debug\1_Out.pdb

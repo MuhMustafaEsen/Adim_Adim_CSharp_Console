@@ -1,0 +1,7 @@
+M:\GitHubGonderilenler\C# Console\25022019\25022019\BuSayiNasilOkunur\bin\Debug\BuSayiNasilOkunur.exe.config
+M:\GitHubGonderilenler\C# Console\25022019\25022019\BuSayiNasilOkunur\bin\Debug\BuSayiNasilOkunur.exe
+M:\GitHubGonderilenler\C# Console\25022019\25022019\BuSayiNasilOkunur\bin\Debug\BuSayiNasilOkunur.pdb
+M:\GitHubGonderilenler\C# Console\25022019\25022019\BuSayiNasilOkunur\obj\Debug\BuSayiNasilOkunur.csprojAssemblyReference.cache
+M:\GitHubGonderilenler\C# Console\25022019\25022019\BuSayiNasilOkunur\obj\Debug\BuSayiNasilOkunur.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\C# Console\25022019\25022019\BuSayiNasilOkunur\obj\Debug\BuSayiNasilOkunur.exe
+M:\GitHubGonderilenler\C# Console\25022019\25022019\BuSayiNasilOkunur\obj\Debug\BuSayiNasilOkunur.pdb

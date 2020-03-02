@@ -1,0 +1,7 @@
+M:\GitHubGonderilenler\C# Console\21022019\21022019\ForDongusu\bin\Debug\ForDongusu.exe.config
+M:\GitHubGonderilenler\C# Console\21022019\21022019\ForDongusu\bin\Debug\ForDongusu.exe
+M:\GitHubGonderilenler\C# Console\21022019\21022019\ForDongusu\bin\Debug\ForDongusu.pdb
+M:\GitHubGonderilenler\C# Console\21022019\21022019\ForDongusu\obj\Debug\ForDongusu.csprojAssemblyReference.cache
+M:\GitHubGonderilenler\C# Console\21022019\21022019\ForDongusu\obj\Debug\ForDongusu.csproj.CoreCompileInputs.cache
+M:\GitHubGonderilenler\C# Console\21022019\21022019\ForDongusu\obj\Debug\ForDongusu.exe
+M:\GitHubGonderilenler\C# Console\21022019\21022019\ForDongusu\obj\Debug\ForDongusu.pdb
